@@ -14,6 +14,7 @@ This project explores data from the Sakila DVD Rental database. The goal is to a
 ### Report and Visualizations
 The detailed answers, visualizations, and analysis results for all the questions above are provided in the final report.
 Report file: [report-sql.pdf](https://github.com/Asocs1/DVD-Rental-Analysis/blob/main/report-sql.pdf)
+
 The report includes charts and insights generated from the SQL queries.
 
 ### Technologies Used
